@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on professionl backend developers.
 - 📫 How to reach me through instagram @simply._.stew
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to create not to copy.
+- ⚡ Fun fact: Love to create something new.
 
 <!---
 Stewartprince/Stewartprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
